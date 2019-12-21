@@ -1,0 +1,191 @@
+train /predict
+https://www.toptal.com/machine-learning/ensemble-methods-machine-learning
+0 34 26
+https://heartbeat.fritz.ai/ensemble-learning-techniques-demystified-e57ee5714996
+0 71 32
+https://www.codementor.io/bruce3557/beautiful-machine-learning-pipeline-with-scikit-learn-uiqapbxuj
+0 8 36
+https://github.com/tlverse/sl3_lecture/blob/master/sl3_timeseries.Rmd
+0 6 6
+https://machinelearningmastery.com/compare-models-and-select-the-best-using-the-caret-r-package/
+0 0 0
+https://www.kaggle.com/kevenfc/introduction-to-ensembling-stacking-in-python/data
+0 6 4
+https://lizbaumann.com/admin/class_DS8_MachineLearning.php
+0 2 3
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2754835/
+0 0 0
+https://www.mql5.com/en/articles/4227
+0 126 1
+-1
+binary class problems ada boost
+https://www.academia.edu/20506377/SUMO-Supermodeling_by_combining_imperfect_models
+0 1 4
+-1
+random variables
+https://towardsdatascience.com/ensemble-methods-bagging-boosting-and-stacking-c9214a10a205
+2 120 21
+https://en.wikipedia.org/wiki/Random_forest
+2 12 27
+http://web1.sph.emory.edu/users/tyu8/534/Lecture%2012%20random%20forest.pptx
+0 0 0
+https://www.statworx.com/blog/ensemble-methods-in-machine-learning-bagging-subagging/
+2 20 16
+https://arxiv.org/pdf/1502.02599
+0 0 2
+https://www.researchgate.net/topic/Ensemble-Learning
+0 1 0
+-1
+3. borda
+https://www.researchgate.net/publication/221653263_Empirical_comparisons_of_various_voting_methods_in_bagging
+0 0 0
+https://www.researchgate.net/publication/283210923_A_Borda_count_for_collective_sentiment_analysis
+0 0 0
+https://era.library.ualberta.ca/items/3f5390f8-4b7b-4fa1-963d-ce094a18fc7e/download/5027a7c0-1efc-4237-ba5b-d5307e523df0
+0 0 0
+https://knowledgecommons.lakeheadu.ca/bitstream/handle/2453/815/GanL2016m-1a.pdf?sequence=3&isAllowed=y
+0 0 3
+https://scholar.afit.edu/cgi/viewcontent.cgi?article=3492&context=etd
+0 0 0
+https://www.academia.edu/2885621/Cooperative_Sign_Language_Tutoring_A_Multiagent_Approach
+0 1 2
+https://www.academia.edu/9510649/Using_Ensemble-Based_Reasoning_to_Help_Experts_in_Melanoma_Diagnosis
+0 9 0
+-1
+different classifiers
+https://machinelearningmastery.com/ensemble-machine-learning-algorithms-python-scikit-learn/
+0 0 0
+https://becominghuman.ai/ensemble-learning-bagging-and-boosting-d20f38be9b1e
+2 52 16
+https://medium.com/@saugata.paul1010/ensemble-learning-bagging-boosting-stacking-and-cascading-classifiers-in-machine-learning-9c66cb271674
+16 89 41
+https://subscription.packtpub.com/book/big_data_and_business_intelligence/9781788295758/4/ch04lvl1sec37/ensemble-of-ensembles-with-different-types-of-classifiers
+0 0 0
+https://web.njit.edu/~avp38/projects/multi_projects/ensemble.html
+1 5 2
+http://www.scholarpedia.org/article/Ensemble_learning
+4 91 9
+https://arxiv.org/pdf/1106.0257
+0 0 0
+-1
+machine learning model
+https://www.eurekalert.org/pub_releases/2019-11/rson-eim111519.php
+6 5 17
+https://machinelearningmastery.com/ensemble-methods-for-deep-learning-neural-networks/
+0 0 0
+https://machinelearningmastery.com/stacking-ensemble-for-deep-learning-neural-networks/
+0 0 0
+https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-for-ensemble-models/
+1 158 25
+https://www.kdnuggets.com/2019/01/ensemble-learning-5-main-approaches.html
+1 34 22
+https://heartbeat.fritz.ai/ensemble-learning-techniques-demystified-e57ee5714996
+2 71 32
+https://www.datacamp.com/community/tutorials/ensemble-learning-python
+10 144 27
+https://www.researchgate.net/publication/298606994_Ensemble_methods_in_machine_learning
+0 0 0
+https://towardsdatascience.com/the-power-of-ensembles-in-deep-learning-a8900ff42be9
+2 60 15
+https://dl.acm.org/citation.cfm?id=743935
+0 0 0
+-1
+artificial training examples
+https://link.springer.com/chapter/10.1007/978-3-642-28765-7_15
+1 22 10
+http://dl.acm.org/citation.cfm?id=1630659.1630734
+0 0 0
+http://dl.acm.org/citation.cfm?id=1630659.1630734#abstract
+0 0 0
+http://dl.acm.org/citation.cfm?id=1630659.1630734#authors
+0 0 0
+http://dl.acm.org/citation.cfm?id=1630659.1630734#references
+0 0 0
+http://dl.acm.org/citation.cfm?id=1630659.1630734#citedby
+0 0 0
+http://www.iosrjournals.org/iosr-jce/papers/vol1-issue4/D0142732.pdf?id=2155
+0 0 0
+https://www.researchgate.net/publication/2834680_In_Constructing_Diverse_Classifier_Ensembles_using_Artificial_Training_Examples
+0 0 0
+-1
+different source
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6487914/
+1 70 5
+https://www.mdpi.com/2072-4292/11/7/886/pdf-vor
+0 0 0
+https://arxiv.org/abs/1712.07944
+6 2 7
+https://www.researchgate.net/publication/335584352_Multi-source_ensemble_transfer_approach_for_medical_text_auxiliary_diagnosis
+0 0 0
+https://www.semanticscholar.org/paper/A-Comparative-Study-of-Different-Source-Code-and-of-Kumar-Sureka/9998f8e8763bf18aa5eb8c9df897a41d0964cf0d
+11 8 20
+https://dl.acm.org/citation.cfm?id=3335986
+0 0 0
+-1
+final goat
+http://mahya.een.visno.space/eaAoef19XnwwY/
+0 0 0
+http://www.casebanklaw.com/scripts/books.php?q=book-%D0%BF%D1%81%D0%B8%D1%85%D0%BE%D0%BB%D0%BE%D0%B3%D0%BE-%D0%BF%D0%B5%D0%B4%D0%B0%D0%B3%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5-%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B8%D0%BD%D1%82%D0%B5%D0%BB%D0%BB%D0%B5%D0%BA%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE-%D0%BE%D0%B4%D0%B0%D1%80%D0%B5%D0%BD%D0%BD%D1%8B%D1%85-%D0%B4%D0%B5%D1%82%D0%B5%D0%B9%D0%B4%D0%B8%D1%81%D1%81%D0%B5%D1%80%D1%82%D0%B0%D1%86%D0%B8%D1%8F-2004/
+1 4 28
+http://www.casebanklaw.com/scripts/books.php?q=creative-writing-the-easy-way/
+1 3 24
+http://www.williamkent.com/ogale/ogale/Pleadings/ebook/download-Il-signore-delle-mosche-1980/
+1 3 30
+http://www.williamkent.com/ogale/ogale/Pleadings/ebook/download-multimedia-storage-and-retrieval-an-algorithmic-approach/
+1 3 25
+http://getraenke-geissel.de/pdf.php?q=ebook-studies-in-the-philosophy-of-kierkegaard-1976/
+1 1 1
+https://trackpost.online/topic/scu
+0 1 1
+http://pharmaceutist.unilabiated.com/2605335826
+0 0 0
+http://belatedness.cassabully.com/5704170784
+0 0 0
+http://216.194.82.200/8183195295
+0 0 0
+-1
+iteration- 3weak classifiers 1. classifiers c1
+https://www.analyticsvidhya.com/blog/2017/02/40-questions-to-ask-a-data-scientist-on-ensemble-modeling-techniques-skilltest-solution/
+0 171 27
+https://machinelearningmastery.com/boosting-and-adaboost-for-machine-learning/
+0 0 0
+https://etd.ohiolink.edu/!etd.send_file?accession=wright1453001665&disposition=inline
+0 0 0
+https://escholarship.org/content/qt8zn4s7mj/qt8zn4s7mj.pdf?t=nrzn57&nosplash=7e38c69e1e5143e7934894a8723b425c
+0 0 0
+https://cyberleninka.org/article/n/949758
+0 2 6
+-1
+direuse models 3.
+http://iafflocal93.org/library/download-needs-and-moral-necessity-routledge-studies-in-ethics-and-moral-theory-2007.php
+0 1 1
+http://mbca-lasvegas.org/scripts/ebook/download-applications-of-metaheuristics-in-process-engineering.html
+0 1 2
+http://nc-cm.org/Pro26Tech/pdf/Remarks-on-the-Quantum-Theory-of-Diffraction-1927/
+0 2 4
+http://nc-cm.org/flash/flash/book/ebook-digital-signal-and-image-processing-2003/
+0 2 1
+http://rites.sofi.maraos.pw/ImJUde0xcmWv8/
+0 0 0
+http://www.casebanklaw.com/scripts/books.php?q=separate-peoples-one-land-the-minds-of-cherokees-blacks-and-whites-on-the-tennessee-frontier-2007/
+0 7 22
+https://wailymintakas.best/?unrepined=rlo-uskmgq.6470
+0 0 0
+http://doyrarittihea.linkpc.net/2316.html
+0 0 0
+-1
+bootstarp replicas 2. boostng
+-1
+different decisio esemble
+-1
+overall model selection
+https://arxiv.org/pdf/1209.0127
+0 1 0
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.131.7167&rep=rep1&type=pdf
+0 0 0
+http://docplayer.net/56041047-Package-cvst-august-29-2016.html
+2 8 46
+https://www.researchgate.net/publication/230779449_Autoregressive_short-term_prediction_of_turning_points_using_supportvector_regression
+0 0 0
+-1
+data fusion data/informations fusion
