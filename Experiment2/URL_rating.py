@@ -4,7 +4,7 @@ import re
 import csv
 data=[]
 a=[]
-student="Manan"
+student="Gaurav"
 def swap(text,j):
     temp1=text[j]
     temp2=text[j+1]
@@ -97,14 +97,17 @@ for x,y in zip(a,data):
             i=i+2
     
         else:
+            w8=temp12[i+1].split()
             templist.append(x)
             templist.append(temp12[i])
-            w8=temp12[i+1].split()
+            
             templist.append(w8[0])
             templist.append(w8[1])
             templist.append(w8[2])
             #print(templist)
-            list_1.append(templist)
+            if (int(w8[0])!=0):
+                print(w8[0])
+                list_1.append(templist)
             i=i+2
         #print("\n")
 
