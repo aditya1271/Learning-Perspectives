@@ -4,7 +4,7 @@ import re
 import csv
 data=[]
 a=[]
-student="Aditya"
+student="Gaurav"
 def swap(text,j):
     temp1=text[j]
     temp2=text[j+1]
@@ -141,7 +141,7 @@ while(i<len(words)) :
         
         query='"'+word1+'" + "ensemble" + "machine learning" '
         fout.write(word1+"\n")
-        #print(word1)
+        print(word1)
         for url in search(query, tld='com', stop=10):
             if(url.find(".pdf",len(url)-5)==-1):
                 test=1
@@ -150,7 +150,7 @@ while(i<len(words)) :
                 except :
                     test=0
                 if test!=0 :
-                    #print(url)
+                    print(url)
                     fout.write(url)
                     fout.write("\n")    
                     fout.write(str(len(re.findall(regex1, page ,  re.IGNORECASE) ) )  )
