@@ -1,0 +1,545 @@
+ensemble learning procedures
+https://www.semanticscholar.org/paper/Importance-Sampled-Learning-Ensembles-Friedman-Popescu/966ffe536f84efd15c1379dad9adffe90b20676f
+6 9  2
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.54.9330&rep=rep1&type=pdf
+0 0  0
+https://www.academia.edu/18051299/Tutorial_on_Ensemble_Learning
+0 10  9
+https://www.researchgate.net/publication/220696321_Ensemble_Methods_in_Data_Mining_Improving_Accuracy_Through_Combining_Predictions
+0 0  0
+https://arxiv.org/pdf/1302.6957
+0 5  0
+http://pubs.acs.org/doi/full/10.1021/ci0500379?src=recsys
+0 27  12
+https://www.mdpi.com/2504-2289/3/2/28/pdf
+0 0  0
+-1
+multiple learning machine
+http://emov.alez.saoul.pw/fLxMde0c9UlPFF/
+0 0  0
+http://woold.abd.coluso.pw/l11fep111UzWl/
+0 0  0
+http://apcar.gcs.moimi.pw/nEbAde0rSJkq0h/
+0 0  0
+http://ruti.karo.roczi.pw/g2S1de0m1ZIFk4/
+0 0  0
+http://sichar.focus-proxy.com/scikit-learn-gradient-boosting-classifier
+0 6  7
+http://ramses40.iowa.icmore.pw/iEaNel01E7F2HA/
+0 0  0
+https://shizennougyou.info/galleries/ensemble-machine-learning-python
+0 0  0
+http://lorika55.haslev.asall.pw/C2vIpm792WjjFf/
+0 0  0
+http://nici.overview.aqvo.pw/v9wDef0c9UlPFF/
+0 0  0
+http://cat.atmo.znomo.pw/7lthel0vRP3FD/
+0 0  0
+-1
+principle
+https://medium.com/ml-research-lab/ensemble-learning-the-heart-of-machine-learning-b4f59a5f9777
+4 89  42
+https://blog.statsbot.co/ensemble-learning-d1dcd548e936
+2 91  26
+https://towardsdatascience.com/an-intro-to-ensemble-learning-in-machine-learning-5ed8792af72d
+2 71  20
+https://towardsdatascience.com/overview-ensemble-learning-made-simple-d4ac0d13cb96?sa=X&ved=2ahUKEwjy5Lb7meLmAhWexosBHVj6Av8Q9QF6BAgLEAI
+2 73  15
+https://towardsdatascience.com/overview-ensemble-learning-made-simple-d4ac0d13cb96
+2 73  15
+https://becominghuman.ai/ensemble-learning-bagging-and-boosting-d20f38be9b1e
+2 52  16
+https://www.analyticsvidhya.com/blog/2015/09/questions-ensemble-modeling/
+1 114  18
+http://www.scholarpedia.org/article/Ensemble_learning
+1 91  9
+https://link.springer.com/10.1007%2F978-0-387-30164-8_252
+1 21  12
+-1
+decision
+https://towardsdatascience.com/ensemble-methods-in-machine-learning-what-are-they-and-why-use-them-68ec3f9fef5f?sa=X&ved=2ahUKEwiEneSGmuLmAhW8xYsBHUcaB8wQ9QF6BAgJEAI
+49 47  22
+https://towardsdatascience.com/ensemble-methods-in-machine-learning-what-are-they-and-why-use-them-68ec3f9fef5f
+49 47  22
+https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-for-ensemble-models/
+29 158  25
+https://blog.statsbot.co/ensemble-learning-d1dcd548e936
+20 91  26
+https://en.wikipedia.org/wiki/Ensemble_learning
+17 110  42
+https://en.wikipedia.org/wiki/Ensemble_learning#Ensemble_theory
+17 110  42
+https://en.wikipedia.org/wiki/Ensemble_learning#Ensemble_size
+17 110  42
+https://en.wikipedia.org/wiki/Ensemble_learning#Common_types_of_ensembles
+17 110  42
+https://en.wikipedia.org/wiki/Ensemble_learning#Ensemble_learning_applications
+17 110  42
+-1
+individuals predictions
+http://think.redding.dev/random-forests
+0 6  2
+https://arxiv.org/pdf/1508.02681
+0 0  0
+https://commons.ln.edu.hk/cgi/viewcontent.cgi?article=1010&context=cds_etd
+0 6  0
+https://www.science.gov/topicpages/a/affect+model+predictions
+0 58  18
+-1
+individual committee member
+https://docplayer.net/7684228-An-ensemble-method-for-large-scale-machine-learning-with-hadoop-mapreduce.html
+1 206  102
+https://www.mdpi.com/1099-4300/19/12/651/htm
+1 41  8
+https://link.springer.com/10.1007%2F978-0-387-30164-8_252
+1 21  12
+https://www.researchgate.net/publication/224382076_Mining_Protein_Primary_Structure_Data_Using_Committee_Machines_Approach_to_Predict_Protein_Contact_Map
+0 0  0
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.66.7934&rep=rep1&type=pdf
+0 0  0
+http://www.academia.edu/2873685/Experiments_with_AdaBoost._RT_an_improved_boosting_scheme_for_regression
+0 1  4
+https://www.researchgate.net/publication/2363447_Committee_Machines
+0 0  0
+-1
+members- real
+http://chay-long.com/nofij3ksa/aozbjt7kfg.php?sdhtjfgv3=real-time-face-recognition-opencv-python
+0 0  0
+http://www.journaltocs.ac.uk/index.php?action=tocs&journalISSN=1389-1286
+0 4  7
+https://issuu.com/thestute/docs/thestute_12_06_19
+0 0  0
+http://helpdesk.indetur.gov.co/3ax6gp/t2n.php?sjn=telegram-scraper-python
+0 1  3
+-1
+class labels
+https://medium.com/@saugata.paul1010/ensemble-learning-bagging-boosting-stacking-and-cascading-classifiers-in-machine-learning-9c66cb271674
+14 89  41
+https://link.springer.com/chapter/10.1007/978-3-642-13672-6_44
+9 31  14
+http://scikit-learn.org/stable/modules/ensemble.html
+6 281  8
+https://www.mathworks.com/help/stats/ensemble-algorithms.html
+2 108  13
+https://en.wikipedia.org/wiki/Ensemble_learning
+1 110  42
+http://jcsites.juniata.edu/faculty/rhodes/ml/ensemble.htm
+1 14  1
+https://web.njit.edu/~avp38/projects/multi_projects/ensemble.html
+1 5  2
+https://www.researchgate.net/publication/220894568_Ensemble_Learning_Based_on_Multi-Task_Class_Labels
+0 0  0
+-1
+posterior
+http://www.scholarpedia.org/article/Ensemble_learning
+6 91  9
+http://axon.cs.byu.edu/~martinez/classes/678/Slides/BMC-Ensembles.ppt
+5 11  1
+https://www.mathworks.com/help/stats/ensemble-algorithms.html
+4 108  13
+https://en.wikipedia.org/wiki/Ensemble_learning
+3 110  42
+https://machinelearningmastery.com/machine-learning-ensembles-with-r/
+0 0  0
+https://arxiv.org/pdf/1810.05546
+0 0  0
+-1
+rankings clusterings
+https://link.springer.com/10.1007%2F978-0-387-30164-8_252
+0 21  12
+http://www.gabormelli.com/RKB/Ensemble_Model
+0 57  2
+https://www.researchgate.net/publication/320670864_Ensemble_learning_and_model_averaging_for_material_identification_in_hyperspectral_imagery
+0 0  0
+https://docplayer.net/7684228-An-ensemble-method-for-large-scale-machine-learning-with-hadoop-mapreduce.html
+0 206  102
+https://etd.ohiolink.edu/!etd.send_file?accession=kent1353971575&disposition=inline
+0 0  0
+https://www.spiedigitallibrary.org/proceedings/Download?fullDOI=10.1117%2F12.2263693
+0 11  2
+https://mafiadoc.com/a-systematic-literature-review-of-software-defect_5cb526d7097c4787778b45e5.html
+0 11  29
+-1
+principle
+https://medium.com/ml-research-lab/ensemble-learning-the-heart-of-machine-learning-b4f59a5f9777
+4 89  42
+https://blog.statsbot.co/ensemble-learning-d1dcd548e936
+2 91  26
+https://towardsdatascience.com/an-intro-to-ensemble-learning-in-machine-learning-5ed8792af72d
+2 71  20
+https://towardsdatascience.com/overview-ensemble-learning-made-simple-d4ac0d13cb96?sa=X&ved=2ahUKEwjk1oGum-LmAhUkxYsBHcisBYgQ9QF6BAgLEAI
+2 73  15
+https://towardsdatascience.com/overview-ensemble-learning-made-simple-d4ac0d13cb96
+2 73  15
+https://becominghuman.ai/ensemble-learning-bagging-and-boosting-d20f38be9b1e
+2 52  16
+https://www.analyticsvidhya.com/blog/2015/09/questions-ensemble-modeling/
+1 114  18
+http://www.scholarpedia.org/article/Ensemble_learning
+1 91  9
+https://link.springer.com/10.1007%2F978-0-387-30164-8_252
+1 21  12
+-1
+real world situations
+https://ieeexplore.ieee.org/document/7340924/
+2 17  5
+https://www.researchgate.net/publication/279834535_Ensemble_learning_methods_for_decision_making_Status_and_future_prospects
+0 0  0
+https://www.researchgate.net/publication/325817534_ENSEMBLE_LEARNING_METHODS_FOR_DECISION_MAKING_STATUS_AND_FUTURE_PROSPECTS
+0 0  0
+https://nsuworks.nova.edu/gscis_etd/1014/
+0 22  6
+https://arxiv.org/pdf/1807.01619
+0 0  0
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.114.2689&rep=rep1&type=pdf
+0 0  0
+https://www.atlantis-press.com/journals/ijcis/25888775/view
+0 173  6
+https://link.springer.com/10.1007%2F978-0-387-30164-8_252
+0 21  12
+-1
+aims- manage strengths
+https://www.toptal.com/machine-learning/ensemble-methods-machine-learning
+0 34  26
+https://www.analyticsvidhya.com/blog/2015/09/questions-ensemble-modeling/
+0 114  18
+https://www.analyticsvidhya.com/blog/2017/02/40-questions-to-ask-a-data-scientist-on-ensemble-modeling-techniques-skilltest-solution/
+0 171  27
+https://towardsdatascience.com/ensemble-methods-bagging-boosting-and-stacking-c9214a10a205
+0 120  21
+https://blog.statsbot.co/ensemble-learning-d1dcd548e936
+0 91  26
+https://www.researchgate.net/publication/298606994_Ensemble_methods_in_machine_learning
+0 0  0
+https://ieeexplore.ieee.org/document/7340924/
+0 17  5
+https://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/
+0 0  0
+https://www.tandfonline.com/doi/full/10.1080/21693277.2016.1192517
+0 17  189
+-1
+model selection
+http://www.scholarpedia.org/article/Ensemble_learning
+4 91  9
+http://www.scholarpedia.org/article/Ensemble_learning#Introduction
+4 91  9
+https://en.wikipedia.org/wiki/Ensemble_learning
+3 110  42
+https://en.wikipedia.org/wiki/Ensemble_learning#Ensemble_theory
+3 110  42
+https://en.wikipedia.org/wiki/Ensemble_learning#Ensemble_size
+3 110  42
+https://en.wikipedia.org/wiki/Ensemble_learning#Common_types_of_ensembles
+3 110  42
+https://en.wikipedia.org/wiki/Ensemble_learning#Ensemble_learning_applications
+3 110  42
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.61.6898&rep=rep1&type=pdf
+0 0  0
+-1
+cross validation
+https://towardsdatascience.com/ensemble-learning-using-scikit-learn-85c4531ff86a
+4 59  16
+https://machinelearningmastery.com/ensemble-machine-learning-algorithms-python-scikit-learn/
+0 0  0
+https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-for-ensemble-models/
+0 158  25
+https://www.datacamp.com/community/tutorials/ensemble-learning-python
+0 144  27
+http://docs.h2o.ai/h2o/latest-stable/h2o-docs/data-science/stacked-ensembles.html?highlight=ensemble
+0 86  5
+https://blog.statsbot.co/ensemble-learning-d1dcd548e936
+0 91  26
+https://en.wikipedia.org/wiki/Ensemble_learning
+0 110  42
+http://www.ritchieng.com/machine-learning-cross-validation/
+0 2  18
+http://scikit-learn.org/stable/modules/ensemble.html
+0 281  8
+https://machinelearningmastery.com/how-to-create-a-random-split-cross-validation-and-bagging-ensemble-for-deep-learning-in-keras/
+0 0  0
+-1
+choose
+https://www.analyticsvidhya.com/blog/2015/10/trick-right-model-ensemble/
+20 83  17
+https://blog.statsbot.co/ensemble-learning-d1dcd548e936
+2 91  26
+https://towardsdatascience.com/simple-guide-for-ensemble-learning-methods-d87cc68705a2
+2 96  17
+https://towardsdatascience.com/ensemble-methods-in-machine-learning-what-are-they-and-why-use-them-68ec3f9fef5f
+2 47  22
+https://en.wikipedia.org/wiki/Ensemble_learning
+1 110  42
+https://en.wikipedia.org/wiki/Ensemble_learning#Ensemble_theory
+1 110  42
+https://en.wikipedia.org/wiki/Ensemble_learning#Ensemble_size
+1 110  42
+https://en.wikipedia.org/wiki/Ensemble_learning#Common_types_of_ensembles
+1 110  42
+https://en.wikipedia.org/wiki/Ensemble_learning#Ensemble_learning_applications
+1 110  42
+-1
+direuse models
+http://prajoon.000webhostapp.com/hbdq/lgb-cv-for-regression.html
+0 0  0
+http://mbca-lasvegas.org/scripts/ebook/download-applications-of-metaheuristics-in-process-engineering.html
+0 1  2
+http://doyrarittihea.linkpc.net/2316.html
+0 0  0
+http://cuternotumil.linkpc.net/page539.html
+0 0  0
+http://rites.sofi.maraos.pw/ImJUde0xcmWv8/
+0 0  0
+http://nc-cm.org/flash/flash/book/ebook-digital-signal-and-image-processing-2003/
+0 2  1
+http://nc-cm.org/Pro26Tech/pdf/Remarks-on-the-Quantum-Theory-of-Diffraction-1927/
+0 2  4
+http://www.casebanklaw.com/scripts/books.php?q=separate-peoples-one-land-the-minds-of-cherokees-blacks-and-whites-on-the-tennessee-frontier-2007/
+0 7  22
+-1
+outcomes
+https://www.cambridge.org/core/product/E3E472BE1DC1BA6F39839CD7D966B418/core-reader
+49 49  75
+https://link.springer.com/chapter/10.1007/978-3-319-94806-5_20
+11 8  15
+https://www.ncbi.nlm.nih.gov/pubmed/30392475
+7 9  10
+http://pubs.acs.org/doi/full/10.1021/ci800164u
+5 9  13
+https://towardsdatascience.com/ensemble-learning-in-machine-learning-getting-started-4ed85eb38e00
+2 58  16
+https://www.ncbi.nlm.nih.gov/pubmed/18983143
+2 3  3
+https://www.analyticsvidhya.com/blog/2017/02/introduction-to-ensembling-along-with-implementation-in-r/
+1 72  38
+https://machinelearningmastery.com/ensemble-methods-for-deep-learning-neural-networks/
+0 0  0
+https://www.sciencedirect.com/science/article/pii/S0895435618310813
+0 0  0
+https://www.researchgate.net/publication/326122512_Regression_Classification_and_Ensemble_Machine_Learning_Approaches_to_Forecasting_Clinical_Outcomes_in_Ischemic_Stroke
+0 0  0
+-1
+keep
+https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-for-ensemble-models/
+2 158  25
+https://towardsdatascience.com/simple-guide-for-ensemble-learning-methods-d87cc68705a2
+2 96  17
+https://heartbeat.fritz.ai/ensemble-learning-techniques-demystified-e57ee5714996
+2 71  32
+https://towardsdatascience.com/ensemble-learning-in-machine-learning-getting-started-4ed85eb38e00
+2 58  16
+https://mlwave.com/human-ensemble-learning/
+2 44  11
+https://www.analyticsvidhya.com/blog/2015/08/introduction-ensemble-learning/
+1 99  11
+http://docs.h2o.ai/h2o/latest-stable/h2o-docs/data-science/stacked-ensembles.html
+1 86  5
+https://machinelearningmastery.com/ensemble-methods-for-deep-learning-neural-networks/
+0 0  0
+https://machinelearningmastery.com/machine-learning-ensembles-with-r/
+0 0  0
+-1
+final goal
+https://scholarworks.umass.edu/masters_theses_2/480/
+5 5  38
+https://www.nature.com/articles/s41540-018-0054-3
+1 26  74
+https://www.networkworld.com/article/3138565/6-machine-learning-misunderstandings.html
+1 5  46
+http://ieeexplore.ieee.org/abstract/document/6033282/
+1 13  0
+-1
+data sample
+https://www.datacamp.com/community/tutorials/adaboost-classifier-python
+2 44  22
+https://builtin.com/data-science/tour-top-10-algorithms-machine-learning-newbies
+2 2  34
+https://machinelearningmastery.com/how-to-create-a-random-split-cross-validation-and-bagging-ensemble-for-deep-learning-in-keras/
+0 0  0
+https://vtechworks.lib.vt.edu/bitstream/handle/10919/51667/King_MA_D_2015.pdf?sequence=1
+0 0  0
+https://link.springer.com/10.1007%2F978-0-387-30164-8_252
+0 21  12
+https://arxiv.org/pdf/1812.06888
+0 4  0
+https://arxiv.org/pdf/1809.09994
+0 0  0
+https://machinelearningmastery.com/bagging-and-random-forest-ensemble-algorithms-for-machine-learning/?sa=X&ved=2ahUKEwj19I_6m-LmAhXUIqYKHRg-DSwQ9QF6BAgLEAI
+0 0  0
+https://machinelearningmastery.com/bagging-and-random-forest-ensemble-algorithms-for-machine-learning/
+0 0  0
+-1
+data quantity
+https://www.nature.com/articles/s41540-018-0054-3
+2 26  74
+https://www.nature.com/articles/s41598-018-27344-x
+1 3  115
+https://iopscience.iop.org/article/10.1088/1748-9326/ab1b7d
+1 7  26
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6457612/
+1 6  24
+http://ieeexplore.ieee.org/document/7976548/
+1 10  4
+https://www.verdazo.com/wp-content/uploads/2018/06/SPE-Machine-Learning-2018-05-31-REV.pdf?x58472
+0 0  2
+https://www.mdpi.com/2072-4292/11/11/1366/pdf
+0 0  0
+https://www.researchgate.net/publication/333651404_A_Hybrid_Ensemble_Method_for_Multiclass_Classification_and_Outlier_Detection
+0 0  0
+https://arxiv.org/pdf/1906.10329
+0 0  0
+-1
+plenty data
+https://www.scientific.net/AMM.667.218
+2 4  4
+https://www.academia.edu/940881/Ensemble_selection_for_water_quality_prediction
+0 16  2
+https://www.researchgate.net/publication/228343435_Ensemble_selection_for_water_quality_prediction
+0 0  0
+https://www.yumpu.com/en/document/view/42325869/ensemble-selection-for-water-quality-prediction-ceur-workshop-
+0 83  1
+https://www.worldscientific.com/doi/pdf/10.1142/9789812569271_0009
+0 0  3
+https://github.com/bakszero/Retro/blob/master/.ipynb_checkpoints/DataCleaner-checkpoint.ipynb?short_path=360bc57
+0 105  0
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.103.8165&rep=rep1&type=pdf
+0 0  0
+-1
+separate subset
+https://etd.auburn.edu/xmlui/bitstream/handle/10415/1659/Thesis%20%28Final%20Draft%29.pdf.txt?sequence=2&isAllowed=y
+1 83  29
+https://link.springer.com/article/10.1186/s40537-018-0152-5
+1 14  40
+http://links.lww.com/JOM/A165
+1 13  1
+https://arxiv.org/pdf/1806.01540
+0 2  0
+https://www.researchgate.net/publication/312775017_Untrained_Method_for_Ensemble_Pruning_and_Weighted_Combination
+0 0  0
+https://www.academia.edu/888537/A_class-specific_ensemble_feature_selection_approach_for_classification_problems
+0 11  21
+https://www.cs.helsinki.fi/webfm_send/1928
+0 0  1
+https://arxiv.org/pdf/0709.3965
+0 0  0
+-1
+different sample
+https://link.springer.com/article/10.1007/s11042-017-5480-5
+16 75  13
+https://medium.com/greyatom/introducing-ensemble-more-is-better-than-one-436a448350cf
+2 51  16
+https://www.educba.com/ensemble-techniques/
+1 73  14
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4609520/
+1 73  7
+http://staging.crescointl.com/ensemble-learning-methods-predictive-accuracy/
+1 28  3
+https://www.researchgate.net/publication/230867318_Ensemble_methods_A_review
+0 0  0
+-1
+divide
+http://ieeexplore.ieee.org/document/8194855/
+15 18  1
+http://www.scholarpedia.org/article/Ensemble_learning
+5 91  9
+https://www.analyticsvidhya.com/blog/2017/02/40-questions-to-ask-a-data-scientist-on-ensemble-modeling-techniques-skilltest-solution/
+2 171  27
+https://towardsdatascience.com/simple-guide-for-ensemble-learning-methods-d87cc68705a2
+2 96  17
+http://www.jeannjoroge.com/Increasing-classificationg-accuracy-with-ensemble-learning/
+2 22  7
+https://en.wikipedia.org/wiki/Ensemble_learning
+1 110  42
+https://machinelearningmastery.com/stacking-ensemble-for-deep-learning-neural-networks/
+0 0  0
+-1
+conquer boundary
+http://www.scholarpedia.org/article/Ensemble_learning
+0 91  9
+https://blog.statsbot.co/ensemble-learning-d1dcd548e936
+0 91  26
+http://www.jeannjoroge.com/Increasing-classificationg-accuracy-with-ensemble-learning/
+0 22  7
+https://www.sciencedirect.com/topics/computer-science/base-classifier
+0 0  0
+https://www.researchgate.net/publication/279834535_Ensemble_learning_methods_for_decision_making_Status_and_future_prospects
+0 0  0
+-1
+certain problem
+https://www.quora.com/What-are-the-best-scenarios-for-using-machine-learning-algorithms-compared-to-traditional-algorithms
+3 4  56
+https://www.tandfonline.com/doi/full/10.1080/21693277.2016.1192517
+1 17  189
+https://blog.quantinsti.com/random-forest-algorithm-in-python/
+1 5  14
+https://www.mihaileric.com/posts/machine-learning-ensembling/
+1 9  3
+https://arxiv.org/pdf/1901.01686
+0 0  0
+https://arxiv.org/pdf/1606.09551
+0 0  0
+-1
+divide
+http://ieeexplore.ieee.org/document/8194855/
+15 18  1
+http://www.scholarpedia.org/article/Ensemble_learning
+5 91  9
+https://www.analyticsvidhya.com/blog/2017/02/40-questions-to-ask-a-data-scientist-on-ensemble-modeling-techniques-skilltest-solution/
+2 171  27
+https://towardsdatascience.com/simple-guide-for-ensemble-learning-methods-d87cc68705a2
+2 96  17
+http://www.jeannjoroge.com/Increasing-classificationg-accuracy-with-ensemble-learning/
+2 22  7
+https://en.wikipedia.org/wiki/Ensemble_learning
+1 110  42
+https://machinelearningmastery.com/stacking-ensemble-for-deep-learning-neural-networks/
+0 0  0
+-1
+small pieces
+https://link.springer.com/article/10.1007/s13748-012-0035-5
+1 14  26
+http://eecs.oregonstate.edu/~tgd/projects/supervised.html
+1 4  14
+https://projecteuclid.org/download/pdfview_1/euclid.imsc/1331731623
+0 11  6
+https://arxiv.org/pdf/1804.10885
+0 0  0
+https://dl.acm.org/citation.cfm?id=599604
+0 4  13
+https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=1727&context=etd_projects
+0 1  3
+https://www.researchgate.net/publication/220580178_Ensemble_Machine_Learning
+0 0  0
+https://www.researchgate.net/publication/285313008_Ensemble_Learning
+0 0  0
+-1
+classifier learns
+http://www.scholarpedia.org/article/Ensemble_learning
+1 91  9
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4386643/
+1 78  9
+https://www.researchgate.net/publication/333505093_From_Ensemble_Learning_to_Meta-Analytics_A_Review_on_Trends_in_Business_Applications
+0 0  0
+https://www.researchgate.net/publication/308570078_The_effectiveness_of_homogenous_ensemble_classifiers_for_Turkish_and_English_texts
+0 0  0
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.150.351&rep=rep1&type=pdf
+0 0  0
+https://www.mdpi.com/1660-4601/16/7/1233/pdf
+0 0  0
+http://cican17.com/machine-learning-with-tree-based-models-ii/
+0 0  0
+-1
+simpler partitions
+https://towardsdatascience.com/classifying-hate-speech-an-overview-d307356b9eba
+2 10  27
+http://www.scholarpedia.org/article/Ensemble_learning
+1 91  9
+https://www.slideshare.net/farzadfarahani/multiple-classifier-systems-41198001
+1 73  2
+https://blog.csdn.net/pi9nc/article/details/8845508
+0 0  0
+https://www.researchgate.net/publication/3432431_Polikar_R_Ensemble_based_systems_in_decision_making_IEEE_Circuit_Syst_Mag_6_21-45
+0 0  0
+http://smil.csie.ntnu.edu.tw/ppt/20091011_cheese_2009-10-05_Ensemble%20Based%20Systems%20in%20Decision%20Making.pptx
+0 0  0
+-1
+data fusion combination

@@ -53,7 +53,7 @@ def sort_urls(data):
 def read_from_file():
 
     try:
-        fin = open("Experiment2/urlw8"+student+".txt")
+        fin = open("Experiment2/urlw8"+student+"new.txt")
     except :
         return 0
     query=fin.readline()
@@ -81,8 +81,8 @@ def read_from_file():
 
 read_from_file()
 data=sort_urls(data)
-open("Experiment2/urlw8"+student+".txt","w").close()
-fout= open("Experiment2/urlw8"+student+".txt","w")
+open("Experiment2/urlw8"+student+"new.txt","w").close()
+fout= open("Experiment2/urlw8"+student+"new.txt","w")
 list_1=[]
 for x,y in zip(a,data):
     fout.write(x+"\n")
@@ -106,14 +106,14 @@ for x,y in zip(a,data):
             templist.append(w8[2])
             #print(templist)
             if (int(w8[0])!=0):
-                print(w8[0])
+               # print(w8[0])
                 list_1.append(templist)
             i=i+2
         #print("\n")
 
 #-------------------------------------------------------------------
 header = ['Label', 'URL', ' Label Weight', 'Esemble Weight','ML Weight']
-with open('Experiment2/'+student+'.csv', 'wt') as f:
+with open('Experiment2/'+student+'new.csv', 'wt') as f:
     csv_writer = csv.writer(f, quoting=csv.QUOTE_ALL)
 
     csv_writer.writerow(header) # write header
@@ -122,19 +122,19 @@ with open('Experiment2/'+student+'.csv', 'wt') as f:
 
     
 
-fin1 = open("Experiment2/Results(Mam).txt","r")
+#fin1 = open("Experiment2/Results(Mam).txt","r")
 fin2 = open("Experiment2/Results("+student+").txt","r")
     
-set1=fin1.readline()
+#set1=fin1.readline()
 set2=fin2.readline()
-set1=set1.split(" ,")
+#set1=set1.split(" ,")
 set2=set2.split(" ,")
-words=list(set(set1)-set(set2))
+words=list(set2)
 
 #word1=word1.replace("\n","")
 i=0
 #print(a)
-while(i<len(words)) :
+while(i<len(words) ) :
     word1=words[i]
     i=i+1
     if word1 not in a:
