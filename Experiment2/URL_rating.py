@@ -4,7 +4,7 @@ import re
 import csv
 data=[]
 a=[]
-student="Gaurav"
+student="Aditya"
 def swap(text,j):
     temp1=text[j]
     temp2=text[j+1]
@@ -40,10 +40,10 @@ def sort_urls(data):
                 j=j+4
             i=i+4
         strtemp=""
-        i=0
-        while(i<len(text)-4):
-            strtemp+=text[i]+"\n"+text[i+1]+" "+text[i+2]+"  "+text[i+3]+"\n"
-            i=i+4
+        k=0
+        while(k<len(text)-3):
+            strtemp+=text[k]+"\n"+text[k+1]+" "+text[k+2]+"  "+text[k+3]+"\n"
+            k=k+4
         strtemp=strtemp+"-1\n"
         newdata.append(strtemp)
     #for x in newdata:
