@@ -27,12 +27,12 @@ https://www.codementor.io/blog/scalable-ml-models-6rvtbf8dsd
 1 1  63
 https://stackoverflow.com/questions/56211249/distributed-python-on-multi-machine-cluster
 1 4  2
+https://dl.acm.org/citation.cfm?id=2791443
+0 20  10
 https://arxiv.org/pdf/1908.10310
 0 0  0
 https://arxiv.org/pdf/1802.09941
 0 3  0
-https://dl.acm.org/citation.cfm?id=2791443
-0 20  10
 -1
 committee makers
 http://die-grosse-von-1823.de/xxxinstallationxxx/library.php?q=ebook-Carcinoma-of-the-Kidney-2007/
@@ -47,8 +47,6 @@ https://www.scribd.com/document/270883014/Regularized-Weighted-Ensemble-of-Deep
 6 72  2
 https://www.slideshare.net/ShalinHaiJew/using-decision-trees-to-analyze-online-learning-data
 2 2  29
-http://www.cs.columbia.edu/~andreas/publications/KAIS01.ps.gz
-0 0  0
 https://ijassa.ipu.ru/ojs/ijassa/article/download/348/287
 0 0  0
 http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.48.206&rep=rep1&type=pdf
@@ -57,6 +55,8 @@ https://www.researchgate.net/publication/223457886_A_comparative_analysis_of_mac
 0 0  0
 http://newprairiepress.org/cgi/viewcontent.cgi?article=1005&context=isitl
 0 1  9
+http://www.cs.columbia.edu/~andreas/publications/KAIS01.ps.gz
+0 0  0
 -1
 overall accuracy
 https://link.springer.com/article/10.1007/s41066-018-0122-5
@@ -85,13 +85,13 @@ https://www.mdpi.com/1099-4300/19/12/651/htm
 1 41  8
 https://link.springer.com/10.1007%2F978-0-387-30164-8_252
 1 21  12
-https://www.researchgate.net/publication/224382076_Mining_Protein_Primary_Structure_Data_Using_Committee_Machines_Approach_to_Predict_Protein_Contact_Map
-0 0  0
-http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.66.7934&rep=rep1&type=pdf
-0 0  0
 http://www.academia.edu/2873685/Experiments_with_AdaBoost._RT_an_improved_boosting_scheme_for_regression
 0 1  4
 https://www.researchgate.net/publication/2363447_Committee_Machines
+0 0  0
+https://www.researchgate.net/publication/224382076_Mining_Protein_Primary_Structure_Data_Using_Committee_Machines_Approach_to_Predict_Protein_Contact_Map
+0 0  0
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.66.7934&rep=rep1&type=pdf
 0 0  0
 -1
 class labels
@@ -179,6 +179,8 @@ https://pubs.acs.org/doi/abs/10.1021/ci034160g
 1 44  107
 https://www.nature.com/subjects/machine-learning/ncomms
 1 1  80
+https://www.researchgate.net/publication/300419422_A_hybrid_ensemble_for_classification_in_multiclass_datasets_An_application_to_oilseed_disease_dataset
+0 0  0
 https://www.researchgate.net/publication/318980301_Ensemble_approach_for_time_series_analysis_in_demand_forecasting_Ensemble_learning
 0 0  0
 https://arxiv.org/pdf/1912.09789
@@ -187,16 +189,10 @@ https://dl.acm.org/citation.cfm?id=1518895
 0 6  17
 https://www.sciencedirect.com/science/article/pii/S0888754318302416
 0 0  0
-https://www.researchgate.net/publication/300419422_A_hybrid_ensemble_for_classification_in_multiclass_datasets_An_application_to_oilseed_disease_dataset
-0 0  0
 -1
 real world situations
 https://ieeexplore.ieee.org/document/7340924/
 2 17  5
-https://www.researchgate.net/publication/279834535_Ensemble_learning_methods_for_decision_making_Status_and_future_prospects
-0 0  0
-https://arxiv.org/pdf/1807.01619
-0 0  0
 https://nsuworks.nova.edu/gscis_etd/1014/
 0 22  6
 http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.114.2689&rep=rep1&type=pdf
@@ -205,6 +201,10 @@ https://www.atlantis-press.com/journals/ijcis/25888775/view
 0 173  6
 https://link.springer.com/10.1007%2F978-0-387-30164-8_252
 0 21  12
+https://www.researchgate.net/publication/279834535_Ensemble_learning_methods_for_decision_making_Status_and_future_prospects
+0 0  0
+https://arxiv.org/pdf/1807.01619
+0 0  0
 -1
 machine learning model
 https://www.datacamp.com/community/tutorials/ensemble-learning-python
@@ -251,14 +251,6 @@ https://medium.com/@saugata.paul1010/ensemble-learning-bagging-boosting-stacking
 6 89  41
 https://towardsdatascience.com/ensemble-learning-using-scikit-learn-85c4531ff86a
 4 59  16
-https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-for-ensemble-models/
-0 158  25
-https://www.datacamp.com/community/tutorials/ensemble-learning-python
-0 144  27
-http://docs.h2o.ai/h2o/latest-stable/h2o-docs/data-science/stacked-ensembles.html?highlight=ensemble
-0 86  5
-https://en.wikipedia.org/wiki/Ensemble_learning
-0 110  42
 https://blog.statsbot.co/ensemble-learning-d1dcd548e936
 0 91  26
 http://www.ritchieng.com/machine-learning-cross-validation/
@@ -267,6 +259,14 @@ https://machinelearningmastery.com/how-to-create-a-random-split-cross-validation
 0 0  0
 https://machinelearningmastery.com/ensemble-methods-for-deep-learning-neural-networks/
 0 0  0
+https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-for-ensemble-models/
+0 158  25
+https://www.datacamp.com/community/tutorials/ensemble-learning-python
+0 144  27
+http://docs.h2o.ai/h2o/latest-stable/h2o-docs/data-science/stacked-ensembles.html?highlight=ensemble
+0 86  5
+https://en.wikipedia.org/wiki/Ensemble_learning
+0 110  42
 -1
 final
 https://medium.com/@saugata.paul1010/ensemble-learning-bagging-boosting-stacking-and-cascading-classifiers-in-machine-learning-9c66cb271674
@@ -295,6 +295,12 @@ https://www.datacamp.com/community/tutorials/adaboost-classifier-python
 2 44  22
 https://builtin.com/data-science/tour-top-10-algorithms-machine-learning-newbies
 2 2  34
+https://arxiv.org/pdf/1809.09994
+0 0  0
+https://machinelearningmastery.com/bagging-and-random-forest-ensemble-algorithms-for-machine-learning/?sa=X&ved=2ahUKEwiCr-z9q-LmAhWsL6YKHQA6AAIQ9QF6BAgLEAI
+0 0  0
+https://machinelearningmastery.com/bagging-and-random-forest-ensemble-algorithms-for-machine-learning/
+0 0  0
 https://machinelearningmastery.com/how-to-create-a-random-split-cross-validation-and-bagging-ensemble-for-deep-learning-in-keras/
 0 0  0
 https://vtechworks.lib.vt.edu/bitstream/handle/10919/51667/King_MA_D_2015.pdf?sequence=1
@@ -303,12 +309,6 @@ https://link.springer.com/10.1007%2F978-0-387-30164-8_252
 0 21  12
 https://arxiv.org/pdf/1812.06888
 0 4  0
-https://arxiv.org/pdf/1809.09994
-0 0  0
-https://machinelearningmastery.com/bagging-and-random-forest-ensemble-algorithms-for-machine-learning/?sa=X&ved=2ahUKEwiCr-z9q-LmAhWsL6YKHQA6AAIQ9QF6BAgLEAI
-0 0  0
-https://machinelearningmastery.com/bagging-and-random-forest-ensemble-algorithms-for-machine-learning/
-0 0  0
 -1
 data quantity—
 https://www.verdazo.com/wp-content/uploads/2018/06/SPE-Machine-Learning-2018-05-31-REV.pdf?x58472
@@ -355,14 +355,14 @@ https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-for-ensemble-mo
 bulky data
 https://www.scirp.org/html/68406_68406.htm
 1 14  1
-https://arxiv.org/pdf/1405.4463
-0 0  4
-https://www.academia.edu/35000368/ADVANCED_MACHINE_LEARNING_WITH_PYTHON_1_
-0 0  10
 https://dl.acm.org/citation.cfm?id=1788231
 0 17  4
 http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.295.7637&rep=rep1&type=pdf
 0 0  0
+https://arxiv.org/pdf/1405.4463
+0 0  4
+https://www.academia.edu/35000368/ADVANCED_MACHINE_LEARNING_WITH_PYTHON_1_
+0 0  10
 -1
 — >
 https://www.kdnuggets.com/2019/09/ensemble-learning.html
@@ -397,12 +397,12 @@ https://www.statworx.com/ch/blog/ensemble-methods-in-machine-learning-bagging-su
 1 19  16
 https://mlcourse.ai/articles/topic5-part1-bagging/
 1 9  3
-http://mockinterview.co/index.php/question/what-is-bagging-boosting-and-stacking-in-machine-learning/
-0 0  0
 https://link.springer.com/10.1007%2F978-0-387-30440-3_315
 0 20  19
 http://www.scholarpedia.org/article/Ensemble_learning
 0 91  9
+http://mockinterview.co/index.php/question/what-is-bagging-boosting-and-stacking-in-machine-learning/
+0 0  0
 -1
 different classifiers
 https://medium.com/@saugata.paul1010/ensemble-learning-bagging-boosting-stacking-and-cascading-classifiers-in-machine-learning-9c66cb271674
@@ -457,6 +457,10 @@ https://www.jpinfotech.org/category/projects-2018/page/28/?paged=27
 1 1  2
 http://citeseerx.ist.psu.edu/oai2?verb=ListRecords&resumptionToken=10.1.1.105.893-3766012-63000-oai_dc
 1 2  0
+https://www.researchgate.net/publication/329406643_Google_Workloads_for_Consumer_Devices_Mitigating_Data_Movement_Bottlenecks
+0 0  0
+https://dl.acm.org/citation.cfm?id=2804292
+0 0  0
 https://super-geek-news.github.io/articles/414131/index.html
 0 0  0
 https://www.microsoft.com/en-us/research/group/mobility-and-networking-research/
@@ -464,10 +468,6 @@ https://www.microsoft.com/en-us/research/group/mobility-and-networking-research/
 https://issuu.com/opensystemsmedia/docs/mes_2018_sept18rg_links
 0 0  0
 https://www.pinterest.com/luckduck66/technology/
-0 0  0
-https://www.researchgate.net/publication/329406643_Google_Workloads_for_Consumer_Devices_Mitigating_Data_Movement_Bottlenecks
-0 0  0
-https://dl.acm.org/citation.cfm?id=2804292
 0 0  0
 -1
 divide
@@ -575,6 +575,8 @@ http://www.scholarpedia.org/article/Ensemble_learning
 1 91  9
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4386643/
 1 78  9
+http://cican17.com/machine-learning-with-tree-based-models-ii/
+0 0  0
 https://www.researchgate.net/publication/333505093_From_Ensemble_Learning_to_Meta-Analytics_A_Review_on_Trends_in_Business_Applications
 0 0  0
 https://www.researchgate.net/publication/308570078_The_effectiveness_of_homogenous_ensemble_classifiers_for_Turkish_and_English_texts
@@ -582,8 +584,6 @@ https://www.researchgate.net/publication/308570078_The_effectiveness_of_homogeno
 http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.150.351&rep=rep1&type=pdf
 0 0  0
 https://www.mdpi.com/1660-4601/16/7/1233/pdf
-0 0  0
-http://cican17.com/machine-learning-with-tree-based-models-ii/
 0 0  0
 -1
 simpler partitions
@@ -633,12 +633,12 @@ http://users.rowan.edu/~polikar/ensemble.html
 1 37  3
 http://talks.cam.ac.uk/talk/index/117139
 1 3  4
-https://www.cambridge.org/core/product/C6E7CC9FD3A53076D405205D28171E21/core-reader
-0 146  91
 https://www.researchgate.net/publication/46494064_Taxonomy_for_characterizing_ensemble_methods_in_classification_tasks_A_review_and_annotated_bibliography
 0 0  0
 https://www.academia.edu/6315582/The_Application_of_Ensemble_Classification_Techniques_in_Network_Intrusion_Detection_a_Review
 0 14  3
+https://www.cambridge.org/core/product/C6E7CC9FD3A53076D405205D28171E21/core-reader
+0 146  91
 -1
 different sources
 http://www.scholarpedia.org/article/Ensemble_learning
@@ -655,545 +655,603 @@ https://www.researchgate.net/publication/220580178_Ensemble_Machine_Learning
 0 0  0
 -1
 data fusion
-http://www.scholarpedia.org/article/Ensemble_learning
-6 91 9
-http://www.scholarpedia.org/article/Ensemble_learning#Introduction
-6 91 9
-http://www.scholarpedia.org/article/Ensemble_learning#History
-6 91 9
-http://www.scholarpedia.org/article/Ensemble_learning#Commonly_used_ensemble_learning_algorithms
-6 91 9
-http://www.scholarpedia.org/article/Ensemble_learning#Ensemble_combination_rules
-6 91 9
-https://iopscience.iop.org/article/10.1088/0964-1726/19/4/045009
-0 0 0
-https://www.mdpi.com/2072-4292/11/7/886/pdf-vor
-0 0 0
 https://www.tandfonline.com/doi/abs/10.1080/10106049.2012.756940
-14 14 1
+14 14  1
+http://www.scholarpedia.org/article/Ensemble_learning
+6 91  9
+http://www.scholarpedia.org/article/Ensemble_learning#Introduction
+6 91  9
+http://www.scholarpedia.org/article/Ensemble_learning#History
+6 91  9
+http://www.scholarpedia.org/article/Ensemble_learning#Commonly_used_ensemble_learning_algorithms
+6 91  9
+http://www.scholarpedia.org/article/Ensemble_learning#Ensemble_combination_rules
+6 91  9
 https://scholarsmine.mst.edu/cgi/viewcontent.cgi?article=2976&context=doctoral_dissertations
-5 0 5
+5 0  5
+https://iopscience.iop.org/article/10.1088/0964-1726/19/4/045009
+0 0  0
+https://www.mdpi.com/2072-4292/11/7/886/pdf-vor
+0 0  0
 -1
 confidence
-https://towardsdatascience.com/ensemble-methods-bagging-boosting-and-stacking-c9214a10a205
-4 120 21
 http://www.scholarpedia.org/article/Ensemble_learning
-12 91 9
+12 91  9
 http://www.scholarpedia.org/article/Ensemble_learning#Introduction
-12 91 9
+12 91  9
 http://www.scholarpedia.org/article/Ensemble_learning#History
-12 91 9
+12 91  9
 http://www.scholarpedia.org/article/Ensemble_learning#Commonly_used_ensemble_learning_algorithms
-12 91 9
+12 91  9
 http://www.scholarpedia.org/article/Ensemble_learning#Ensemble_combination_rules
-12 91 9
+12 91  9
+https://towardsdatascience.com/ensemble-methods-bagging-boosting-and-stacking-c9214a10a205
+4 120  21
 https://en.wikipedia.org/wiki/Ensemble_learning
-2 110 42
+2 110  42
 https://arxiv.org/pdf/1512.07446
-0 1 0
+0 1  0
 -1
 high confidence decision
 http://users.rowan.edu/~shreek/share/DOE-Gas/Learn++%20Description%20for%20DOE%20project.doc
-1 10 3
-https://www.researchgate.net/publication/300142224_Ensemble_Learning_for_Low-Level_Hardware-Supported_Malware_Detection
-0 0 0
-https://www.academia.edu/19346218/Semi-supervised_self-training_for_decision_tree_classifiers
-0 0 9
+1 10  3
 https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3243578_code1372558.pdf?abstractid=3243578&mirid=1
-0 13 0
+0 13  0
 https://m.actapress.com/Abstract.aspx?paperId=29480
-0 1 3
+0 1  3
+https://www.researchgate.net/publication/300142224_Ensemble_Learning_for_Low-Level_Hardware-Supported_Malware_Detection
+0 0  0
+https://www.academia.edu/19346218/Semi-supervised_self-training_for_decision_tree_classifiers
+0 0  9
 -1
 ensemble learning algorithms—
 https://www.researchgate.net/publication/298606994_Ensemble_methods_in_machine_learning
-0 0 0
+0 0  0
 http://www.scholarpedia.org/article/Ensemble_learning
-0 91 9
+0 91  9
 https://towardsdatascience.com/basic-ensemble-learning-random-forest-adaboost-gradient-boosting-step-by-step-explained-95d49d1e2725
-0 62 5
+0 62  5
 https://link.springer.com/10.1007%2F978-0-387-30164-8_252
-0 21 12
+0 21  12
 https://www.sciencedirect.com/topics/computer-science/ensemble-learning
-0 1 0
+0 1  0
 https://www.researchgate.net/publication/296342438_Ensemble_machine_learning_Methods_and_applications
-0 0 0
+0 0  0
 https://medium.com/@saugata.paul1010/ensemble-learning-bagging-boosting-stacking-and-cascading-classifiers-in-machine-learning-9c66cb271674
-0 89 41
+0 89  41
 https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0127281
-0 142 38
+0 142  38
 https://blog.eduonix.com/software-development/need-know-ensemble-learning/
-0 73 23
+0 73  23
 -1
 bagging/bootstrap
 https://en.wikipedia.org/wiki/Bootstrap_aggregating?sa=X&ved=2ahUKEwiR9vf2sOLmAhVExIsBHZEyBQkQ9QF6BAgLEAI
-0 9 21
+0 9  21
 https://en.wikipedia.org/wiki/Bootstrap_aggregating
-0 9 21
+0 9  21
 https://en.wikipedia.org/wiki/Bootstrap_aggregating#Description_of_the_technique
-0 9 21
+0 9  21
 https://en.wikipedia.org/wiki/Bootstrap_aggregating#Example:_Ozone_data
-0 9 21
+0 9  21
 https://medium.com/@harishkandan95/bagging-the-skill-of-bagging-bootstrap-aggregating-83c18dcabdf1
-0 8 9
+0 8  9
 https://corporatefinanceinstitute.com/resources/knowledge/other/bagging-bootstrap-aggregation/
-0 14 10
+0 14  10
 https://www.youtube.com/watch?v=KIOeZ5cFZ50
-0 15 30
+0 15  30
 https://www.youtube.com/watch?v=m-S9Hojj1as
-0 59 31
+0 59  31
 -1
 — > diversity
 https://link.springer.com/article/10.1023/A:1022859003006
-0 15 12
+0 15  12
 https://en.wikipedia.org/wiki/Ensemble_learning
-0 110 42
+0 110  42
 https://en.wikipedia.org/wiki/Ensemble_learning#Ensemble_theory
-0 110 42
+0 110  42
 https://en.wikipedia.org/wiki/Ensemble_learning#Ensemble_size
-0 110 42
+0 110  42
 https://en.wikipedia.org/wiki/Ensemble_learning#Common_types_of_ensembles
-0 110 42
+0 110  42
 https://en.wikipedia.org/wiki/Ensemble_learning#Ensemble_learning_applications
-0 110 42
+0 110  42
 https://blog.statsbot.co/ensemble-learning-d1dcd548e936
-0 91 26
+0 91  26
 http://www.iosrjournals.org/iosr-jce/papers/vol1-issue4/D0142732.pdf?id=2155
-0 0 0
+0 0  0
 -1
 boosting
-https://machinelearningmastery.com/boosting-and-adaboost-for-machine-learning/
-0 0 0
 https://towardsdatascience.com/ensemble-methods-bagging-boosting-and-stacking-c9214a10a205
-120 120 21
-https://becominghuman.ai/ensemble-learning-bagging-and-boosting-d20f38be9b1e
-61 52 16
-https://blog.statsbot.co/ensemble-learning-d1dcd548e936
-27 91 26
-https://en.wikipedia.org/wiki/Boosting_(machine_learning)
-87 10 37
-https://analyticsindiamag.com/primer-ensemble-learning-bagging-boosting/
-91 92 11
+120 120  21
 https://www.analyticsvidhya.com/blog/2015/11/quick-introduction-boosting-algorithms-machine-learning/
-115 15 33
-https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-for-ensemble-models/
-41 158 25
+115 15  33
+https://analyticsindiamag.com/primer-ensemble-learning-bagging-boosting/
+91 92  11
+https://en.wikipedia.org/wiki/Boosting_(machine_learning)
+87 10  37
+https://becominghuman.ai/ensemble-learning-bagging-and-boosting-d20f38be9b1e
+61 52  16
 https://medium.com/@rrfd/boosting-bagging-and-stacking-ensemble-methods-with-sklearn-and-mlens-a455c0c982de
-47 120 7
+47 120  7
+https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-for-ensemble-models/
+41 158  25
+https://blog.statsbot.co/ensemble-learning-d1dcd548e936
+27 91  26
+https://machinelearningmastery.com/boosting-and-adaboost-for-machine-learning/
+0 0  0
 -1
 creates replicas
-https://www.ideals.illinois.edu/bitstream/handle/2142/11351/UIUCDCS-R-2007-2842.pdf?sequence=2
-0 0 0
-https://www.researchgate.net/publication/242549122_Paxos_Made_Practical
-0 0 0
-https://dl.acm.org/citation.cfm?id=2164770
-0 2 4
-https://dl.acm.org/citation.cfm?id=2117707
-0 0 1
-http://drrajivdesaimd.com/2016/07/19/internet-of-things-iot/
-1 1 4
 http://citeseerx.ist.psu.edu/oai2?verb=ListRecords&resumptionToken=10.1.1.148.4675-3766012-420000-oai_dc
-1 2 6
+1 2  6
+http://drrajivdesaimd.com/2016/07/19/internet-of-things-iot/
+1 1  4
+https://www.ideals.illinois.edu/bitstream/handle/2142/11351/UIUCDCS-R-2007-2842.pdf?sequence=2
+0 0  0
+https://www.researchgate.net/publication/242549122_Paxos_Made_Practical
+0 0  0
+https://dl.acm.org/citation.cfm?id=2164770
+0 2  4
+https://dl.acm.org/citation.cfm?id=2117707
+0 0  1
 -1
 info train data
-http://milotin.host.colos.pw/hza1pm53sdWRi/
-0 0 0
 https://github.com/srimugunthan/kaggle-titanic-python-solution/blob/master/models.py
-1 1 0
+1 1  0
+http://milotin.host.colos.pw/hza1pm53sdWRi/
+0 0  0
 -1
 consecutive classifiers
-https://www.researchgate.net/publication/261860728_A_Sequential_Ensemble_Classification_SEC_System_for_Tackling_the_Problem_of_Unbalance_Learning_A_Case_Study
-0 0 0
-https://www.academia.edu/33583143/Ensemble_Learning_Model_selection_Statistical_validation
-0 12 0
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5090896/
-1 21 11
 https://www.slideshare.net/kangdaeki/boosting
-4 16 30
+4 16  30
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5090896/
+1 21  11
+https://www.researchgate.net/publication/261860728_A_Sequential_Ensemble_Classification_SEC_System_for_Tackling_the_Problem_of_Unbalance_Learning_A_Case_Study
+0 0  0
+https://www.academia.edu/33583143/Ensemble_Learning_Model_selection_Statistical_validation
+0 12  0
 -1
 weak classifiers —
 https://machinelearningmastery.com/boosting-and-adaboost-for-machine-learning/
-0 0 0
+0 0  0
 https://en.wikipedia.org/wiki/Boosting_(machine_learning)
-0 10 37
+0 10  37
 https://www.kdnuggets.com/2019/09/ensemble-methods-machine-learning-adaboost.html
-0 21 20
+0 21  20
 https://stats.stackexchange.com/questions/150995/how-to-combine-weak-classfiers-to-get-a-strong-one
-0 18 7
+0 18  7
 https://stats.stackexchange.com/questions/13597/on-the-strength-of-weak-learners
-0 23 4
+0 23  4
 https://stats.stackexchange.com/questions/25121/base-classifiers-for-boosting
-0 30 6
+0 30  6
 https://stats.stackexchange.com/questions/266249/do-boosting-techniques-use-voting-like-any-other-ensemble-method
-0 43 4
+0 43  4
 -1
 classifier c1
 https://arxiv.org/pdf/1706.10208
-0 3 0
+0 3  0
 https://www.researchgate.net/publication/220372354_Dynamic_weighting_ensemble_classifiers_based_on_cross-validation
-0 0 0
+0 0  0
 https://link.springer.com/article/10.1007/s11634-015-0227-5
-0 66 14
+0 66  14
 https://tel.archives-ouvertes.fr/tel-01662444/document
-0 37 1
+0 37  1
 -1
 random subset
-https://machinelearningmastery.com/bagging-and-random-forest-ensemble-algorithms-for-machine-learning/
-0 0 0
 https://towardsdatascience.com/basic-ensemble-learning-random-forest-adaboost-gradient-boosting-step-by-step-explained-95d49d1e2725
-6 62 5
+6 62  5
 https://blog.statsbot.co/ensemble-learning-d1dcd548e936
-2 91 26
+2 91  26
 https://en.wikipedia.org/wiki/Random_forest
-2 12 27
-https://en.wikipedia.org/wiki/Ensemble_learning
-0 110 42
-https://en.wikipedia.org/wiki/Decision_tree_learning
-1 6 25
-https://en.wikipedia.org/wiki/Random_tree
-0 0 0
-https://en.wikipedia.org/wiki/Bootstrap_aggregating
-0 9 21
+2 12  27
 http://scikit-learn.org/stable/modules/ensemble.html
-1 281 8
+1 281  8
+https://en.wikipedia.org/wiki/Decision_tree_learning
+1 6  25
 https://www.oreilly.com/library/view/hands-on-machine-learning/9781491962282/ch07.html
-1 14 10
+1 14  10
+https://machinelearningmastery.com/bagging-and-random-forest-ensemble-algorithms-for-machine-learning/
+0 0  0
+https://en.wikipedia.org/wiki/Ensemble_learning
+0 110  42
+https://en.wikipedia.org/wiki/Random_tree
+0 0  0
+https://en.wikipedia.org/wiki/Bootstrap_aggregating
+0 9  21
 -1
 info subset
 https://www.yumpu.com/en/document/view/37172367/organized-by-supported-by-camtcollaboration
-0 0 2
+0 0  2
 http://qtpy.midanaxos.it/pyspark-fill-na-subset.html
-0 1 5
+0 1  5
 http://www.audiorealismh.tk/index.php/catalogsearch/result/index/?dir=asc&order=end_date_time&p=2&q=Koi
-0 0 0
+0 0  0
 http://rovatsya-ot-alkogolizma-na-sleduyushchiy-den-posle-pyanki.new-wheel.ru/228912/
-0 0 0
+0 0  0
 http://sozavisimost-pri-alkogolizme-i-narkomanii-moskalenko.new-wheel.ru/%D1%84%D0%B8%D0%B3%D1%83%D1%80%D0%BA%D0%B0-%D1%81-%D0%BF%D1%83%D1%81%D0%BA%D0%BE%D0%B2%D1%8B%D0%BC-%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE%D0%BC-lego-ninjago-70646-%D0%B4%D0%B6%D0%B5%D0%B9-%D0%BC%D0%B0%D1%81%D1%82%D0%B5%D1%80-%D0%B4%D1%80%D0%B0%D0%BA%D0%BE%D0%BD%D0%B0/
-0 0 0
+0 0  0
 -1
 training data
-https://blog.statsbot.co/ensemble-learning-d1dcd548e936
-4 91 26
-https://towardsdatascience.com/simple-guide-for-ensemble-learning-methods-d87cc68705a2
-8 96 17
 https://en.wikipedia.org/wiki/Ensemble_learning
-9 110 42
+9 110  42
 https://en.wikipedia.org/wiki/Ensemble_learning#Ensemble_theory
-9 110 42
+9 110  42
 https://en.wikipedia.org/wiki/Ensemble_learning#Ensemble_size
-9 110 42
+9 110  42
 https://en.wikipedia.org/wiki/Ensemble_learning#Common_types_of_ensembles
-9 110 42
+9 110  42
 https://en.wikipedia.org/wiki/Ensemble_learning#Ensemble_learning_applications
-9 110 42
-https://machinelearningmastery.com/ensemble-methods-for-deep-learning-neural-networks/
-0 0 0
+9 110  42
+https://towardsdatascience.com/simple-guide-for-ensemble-learning-methods-d87cc68705a2
+8 96  17
 https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-for-ensemble-models/
-4 158 25
+4 158  25
+https://blog.statsbot.co/ensemble-learning-d1dcd548e936
+4 91  26
+https://machinelearningmastery.com/ensemble-methods-for-deep-learning-neural-networks/
+0 0  0
 -1
 c2 disagree
 https://analyticsindiamag.com/primer-ensemble-learning-bagging-boosting/
-3 92 11
-http://mockinterview.co/index.php/question/what-is-bagging-boosting-and-stacking-in-machine-learning/
-0 0 0
+3 92  11
 https://www.quora.com/Whats-the-difference-between-boosting-and-bagging
-2 39 26
+2 39  26
 http://thescipub.com/pdf/10.3844/jcssp.2018.654.662
-0 0 0
+0 0  0
 https://www.sciencedirect.com/science/article/pii/S2215098619308390
-0 0 0
+0 0  0
+http://mockinterview.co/index.php/question/what-is-bagging-boosting-and-stacking-in-machine-learning/
+0 0  0
 -1
 boosting
-https://machinelearningmastery.com/boosting-and-adaboost-for-machine-learning/
-0 0 0
 https://towardsdatascience.com/ensemble-methods-bagging-boosting-and-stacking-c9214a10a205
-120 120 21
-https://becominghuman.ai/ensemble-learning-bagging-and-boosting-d20f38be9b1e
-61 52 16
-https://blog.statsbot.co/ensemble-learning-d1dcd548e936
-27 91 26
-https://en.wikipedia.org/wiki/Boosting_(machine_learning)
-87 10 37
-https://analyticsindiamag.com/primer-ensemble-learning-bagging-boosting/
-91 92 11
+120 120  21
 https://www.analyticsvidhya.com/blog/2015/11/quick-introduction-boosting-algorithms-machine-learning/
-115 15 33
-https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-for-ensemble-models/
-41 158 25
+115 15  33
+https://analyticsindiamag.com/primer-ensemble-learning-bagging-boosting/
+91 92  11
+https://en.wikipedia.org/wiki/Boosting_(machine_learning)
+87 10  37
+https://becominghuman.ai/ensemble-learning-bagging-and-boosting-d20f38be9b1e
+61 52  16
 https://medium.com/@rrfd/boosting-bagging-and-stacking-ensemble-methods-with-sklearn-and-mlens-a455c0c982de
-47 120 7
+47 120  7
+https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-for-ensemble-models/
+41 158  25
+https://blog.statsbot.co/ensemble-learning-d1dcd548e936
+27 91  26
+https://machinelearningmastery.com/boosting-and-adaboost-for-machine-learning/
+0 0  0
 -1
 binary class problems
-https://www.researchgate.net/publication/220600165_An_overview_of_ensemble_methods_for_binary_classifiers_in_multi-class_problems_Experimental_study_on_one-vs-one_and_one-vs-all_schemes
-0 0 0
-https://www.researchgate.net/publication/303557670_Empowering_One-vs-One_Decomposition_with_Ensemble_Learning_for_Multi-Class_Imbalanced_Data
-0 0 0
-http://article.sapub.org/10.5923.j.ajis.20130302.02.html
-0 13 12
-https://www.hindawi.com/journals/jat/2019/7482138/
-2 74 24
 https://www.hindawi.com/journals/cmmm/2015/193406/
-6 93 14
-https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0146116
-0 172 22
+6 93  14
+https://www.hindawi.com/journals/jat/2019/7482138/
+2 74  24
 https://arxiv.org/pdf/1302.0963
-0 0 0
+0 0  0
+https://www.researchgate.net/publication/220600165_An_overview_of_ensemble_methods_for_binary_classifiers_in_multi-class_problems_Experimental_study_on_one-vs-one_and_one-vs-all_schemes
+0 0  0
+https://www.researchgate.net/publication/303557670_Empowering_One-vs-One_Decomposition_with_Ensemble_Learning_for_Multi-Class_Imbalanced_Data
+0 0  0
+http://article.sapub.org/10.5923.j.ajis.20130302.02.html
+0 13  12
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0146116
+0 172  22
 -1
 ada boost
-https://www.datacamp.com/community/tutorials/adaboost-classifier-python?sa=X&ved=2ahUKEwj6wLbisuLmAhUMGqYKHau4CY8Q9QF6BAgLEAI
-0 44 22
-https://www.datacamp.com/community/tutorials/adaboost-classifier-python
-0 44 22
-https://towardsdatascience.com/understanding-adaboost-2f94f22d5bfe
-0 41 9
-https://medium.com/machine-learning-101/https-medium-com-savanpatel-chapter-6-adaboost-classifier-b945f330af06
-0 14 17
-https://www.analyticsvidhya.com/blog/2015/11/quick-introduction-boosting-algorithms-machine-learning/
-0 15 33
 https://data-flair.training/blogs/adaboost-algorithm/
-9 28 41
+9 28  41
 https://dzone.com/articles/adaboost-algorithm-for-machine-learning
-3 5 16
+3 5  16
+https://www.analyticsvidhya.com/blog/2015/11/quick-introduction-boosting-algorithms-machine-learning/
+0 15  33
+https://www.datacamp.com/community/tutorials/adaboost-classifier-python?sa=X&ved=2ahUKEwj6wLbisuLmAhUMGqYKHau4CY8Q9QF6BAgLEAI
+0 44  22
+https://www.datacamp.com/community/tutorials/adaboost-classifier-python
+0 44  22
+https://towardsdatascience.com/understanding-adaboost-2f94f22d5bfe
+0 41  9
+https://medium.com/machine-learning-101/https-medium-com-savanpatel-chapter-6-adaboost-classifier-b945f330af06
+0 14  17
 -1
 — > instances
 https://en.wikipedia.org/wiki/Ensemble_learning
-0 110 42
+0 110  42
 https://en.wikipedia.org/wiki/Ensemble_learning#Ensemble_theory
-0 110 42
+0 110  42
 https://en.wikipedia.org/wiki/Ensemble_learning#Ensemble_size
-0 110 42
+0 110  42
 https://en.wikipedia.org/wiki/Ensemble_learning#Common_types_of_ensembles
-0 110 42
+0 110  42
 https://en.wikipedia.org/wiki/Ensemble_learning#Ensemble_learning_applications
-0 110 42
+0 110  42
 https://www.toptal.com/machine-learning/ensemble-methods-machine-learning
-0 34 27
+0 34  27
 https://towardsdatascience.com/ensemble-learning-in-machine-learning-getting-started-4ed85eb38e00
-0 58 16
+0 58  16
 https://towardsdatascience.com/overview-ensemble-learning-made-simple-d4ac0d13cb96
-0 73 15
+0 73  15
 https://machinelearningmastery.com/ensemble-machine-learning-algorithms-python-scikit-learn/
-0 0 0
+0 0  0
 https://machinelearningmastery.com/use-ensemble-machine-learning-algorithms-weka/
-0 0 0
+0 0  0
 -1
 subset dataset
-https://www.researchgate.net/publication/287302551_Selecting_Optimal_Subset_of_Features_for_Intrusion_Detection_Systems
-0 0 0
 https://link.springer.com/chapter/10.1007/978-3-319-69953-0_11
-1 4 39
-https://www.academia.edu/39795805/An_Embedded_Feature_Selection_Method_for_Imbalanced_Data_Classification
-0 0 2
+1 4  39
 https://www.sciencedirect.com/science/article/pii/S1319157819301910
-0 0 0
+0 0  0
 https://www.andreaperlato.com/mlpost/estimate-the-sucess-of-a-new-product-with-logistic-regression/
-0 1 2
+0 1  2
+https://www.researchgate.net/publication/287302551_Selecting_Optimal_Subset_of_Features_for_Intrusion_Detection_Systems
+0 0  0
+https://www.academia.edu/39795805/An_Embedded_Feature_Selection_Method_for_Imbalanced_Data_Classification
+0 0  2
 -1
 sample distribution
-https://www.academia.edu/39060549/An_Empirical_Study_of_Ensemble_Techniques_Bagging_Boosting_and_Stacking
-0 14 2
 https://towardsdatascience.com/https-medium-com-aparnack-what-can-a-small-sample-teach-us-about-a-big-population-part-1-b7c048c22bf2
-4 2 12
-https://towardsdatascience.com/ensemble-learning-and-model-interpretability-a-case-study-95141d75a96c
-0 36 19
+4 2  12
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5356335/
-1 52 18
+1 52  18
+https://www.academia.edu/39060549/An_Empirical_Study_of_Ensemble_Techniques_Bagging_Boosting_and_Stacking
+0 14  2
+https://towardsdatascience.com/ensemble-learning-and-model-interpretability-a-case-study-95141d75a96c
+0 36  19
 https://arxiv.org/pdf/1909.03500
-0 4 0
+0 4  0
 https://stxnext.com/blog/2018/09/04/machine-learning-ensemble-models-python/
-0 34 17
+0 34  17
 -1
 classifiers training errors
 https://www.hindawi.com/journals/mpe/2015/260970/
-0 83 14
+0 83  14
 https://it.b-ok2.org/book/2050339/f94944
-0 219 36
+0 219  36
 -1
 weights majority
 https://www.scribd.com/document/310125832/09-Ensembles
-0 0 0
+0 0  0
 https://www.coursehero.com/file/30325581/12-ensembles-contd-outlinepdf/
-0 0 0
+0 0  0
 https://docplayer.net/101682599-Machine-learning-and-data-mining-ensembles-of-learners-kalev-kask.html
-0 103 80
+0 103  80
 https://www.researchgate.net/publication/257826403_Using_a_Neural_Network_to_Approximate_an_Ensemble_of_Classifiers
-0 0 0
+0 0  0
 -1
 random forests—
 https://en.wikipedia.org/wiki/Random_forest
-0 12 27
+0 12  27
 https://machinelearningmastery.com/bagging-and-random-forest-ensemble-algorithms-for-machine-learning/
-0 0 0
+0 0  0
 https://en.wikipedia.org/wiki/Random_forest#Algorithm
-0 12 27
+0 12  27
 https://en.wikipedia.org/wiki/Random_forest#Properties
-0 12 27
+0 12  27
 https://en.wikipedia.org/wiki/Random_forest#Unsupervised_learning_with_random_forests
-0 12 27
+0 12  27
 https://en.wikipedia.org/wiki/Random_forest#Kernel_random_forest
-0 12 27
+0 12  27
 https://www.oreilly.com/library/view/hands-on-machine-learning/9781491962282/ch07.html
-0 14 10
+0 14  10
 https://towardsdatascience.com/ensemble-methods-bagging-boosting-and-stacking-c9214a10a205
-0 120 21
+0 120  21
 https://towardsdatascience.com/understanding-random-forest-58381e0602d2
-0 4 13
+0 4  13
 http://scikit-learn.org/stable/modules/ensemble.html
-0 281 8
+0 281  8
 -1
 decision tress
 https://towardsdatascience.com/ensemble-methods-in-machine-learning-what-are-they-and-why-use-them-68ec3f9fef5f?sa=X&ved=2ahUKEwjLupKws-LmAhXvy4sBHcAbDeYQ9QF6BAgLEAI
-0 47 22
+0 47  22
 https://towardsdatascience.com/ensemble-methods-in-machine-learning-what-are-they-and-why-use-them-68ec3f9fef5f
-0 47 22
+0 47  22
 https://towardsdatascience.com/decision-tree-ensembles-bagging-and-boosting-266a8ba60fd9
-0 19 11
+0 19  11
 https://medium.com/@ml.at.berkeley/machine-learning-crash-course-part-5-decision-trees-and-ensemble-models-dcc5a36af8cd
-0 60 24
+0 60  24
 https://en.wikipedia.org/wiki/Ensemble_learning
-0 110 42
+0 110  42
 https://blog.statsbot.co/ensemble-learning-d1dcd548e936
-0 91 26
+0 91  26
 http://scikit-learn.org/stable/modules/ensemble.html
-0 281 8
+0 281  8
 https://machinelearningmastery.com/use-ensemble-machine-learning-algorithms-weka/
-0 0 0
+0 0  0
 https://machinelearningmastery.com/bagging-and-random-forest-ensemble-algorithms-for-machine-learning/
-0 0 0
+0 0  0
 -1
 multi class classification
-https://machinelearningmastery.com/ensemble-machine-learning-algorithms-python-scikit-learn/
-0 0 0
-http://scikit-learn.org/stable/modules/multiclass.html
-0 32 2
-http://scikit-learn.org/stable/modules/ensemble.html
-0 281 8
-https://marmoset.cs.umd.edu/content/mc3-multi-class-consensus-classification-framework
-0 0 0
-https://towardsdatascience.com/journey-to-the-center-of-multi-label-classification-384c40229bff
-0 4 7
-https://sci2s.ugr.es/ovo-ova
-0 12 4
 https://markhneedham.com/blog/2017/12/05/scikit-learn-building-multi-class-classification-ensemble/
-8 33 0
+8 33  0
+http://scikit-learn.org/stable/modules/ensemble.html
+0 281  8
+https://marmoset.cs.umd.edu/content/mc3-multi-class-consensus-classification-framework
+0 0  0
+https://towardsdatascience.com/journey-to-the-center-of-multi-label-classification-384c40229bff
+0 4  7
+https://sci2s.ugr.es/ovo-ova
+0 12  4
 https://www.analyticsvidhya.com/blog/2017/08/introduction-to-multi-label-classification/
-0 5 15
+0 5  15
 https://medium.com/@b.terryjack/tips-and-tricks-for-multi-class-classification-c184ae1c8ffc
-0 6 3
+0 6  3
+https://machinelearningmastery.com/ensemble-machine-learning-algorithms-python-scikit-learn/
+0 0  0
+http://scikit-learn.org/stable/modules/multiclass.html
+0 32  2
 -1
 decorate
-https://www.researchgate.net/publication/254297981_An_empirical_bias-variance_analysis_of_DECORATE_ensemble_method_at_different_training_sample_sizes
-0 0 0
-http://www.iosrjournals.org/iosr-jce/papers/vol1-issue4/D0142732.pdf?id=2155
-0 0 0
-https://algorithmia.com/algorithms/weka/Decorate
-28 4 4
 http://www.cs.utsa.edu/~jruan/teaching/CS6243_spring_2012/ensembles.ppt
-36 147 29
+36 147  29
+https://algorithmia.com/algorithms/weka/Decorate
+28 4  4
 http://u.cs.biu.ac.il/~koppel/ML2012/Ensemble%20Methods.ppt
-5 5 2
+5 5  2
+https://www.researchgate.net/publication/254297981_An_empirical_bias-variance_analysis_of_DECORATE_ensemble_method_at_different_training_sample_sizes
+0 0  0
+http://www.iosrjournals.org/iosr-jce/papers/vol1-issue4/D0142732.pdf?id=2155
+0 0  0
 -1
 diverse ensemble creation
-http://www.iosrjournals.org/iosr-jce/papers/vol1-issue4/D0142732.pdf?id=2155
-0 0 0
 https://dl.acm.org/citation.cfm?id=1195442
-1 10 4
-https://www.researchgate.net/publication/271296537_A_Review_on_Diverse_Ensemble_Methods_for_Classification
-0 0 0
+1 10  4
 https://www.researchgate.net/publication/222404526_Creating_diversity_in_ensembles_using_artificial_data
-0 0 0
+0 0  0
 http://search.proquest.com/openview/fb9dae0ddf953c08394d5cf655695ebb/1?pq-origsite=gscholar&cbl=18750&diss=y
-0 2 0
+0 2  0
+http://www.iosrjournals.org/iosr-jce/papers/vol1-issue4/D0142732.pdf?id=2155
+0 0  0
+https://www.researchgate.net/publication/271296537_A_Review_on_Diverse_Ensemble_Methods_for_Classification
+0 0  0
 -1
 artificial training examples
-https://link.springer.com/chapter/10.1007/978-3-642-28765-7_15
-1 22 10
-https://www.researchgate.net/publication/2834680_In_Constructing_Diverse_Classifier_Ensembles_using_Artificial_Training_Examples
-0 0 0
-http://www.iosrjournals.org/iosr-jce/papers/vol1-issue4/D0142732.pdf?id=2155
-0 0 0
-http://dl.acm.org/citation.cfm?id=1630659.1630734
-6 14 15
-http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.5.7434&rep=rep1&type=pdf
-0 0 0
 http://www.cs.utsa.edu/~jruan/teaching/CS6243_spring_2012/ensembles.ppt
-7 147 29
+7 147  29
+http://dl.acm.org/citation.cfm?id=1630659.1630734
+6 14  15
+https://link.springer.com/chapter/10.1007/978-3-642-28765-7_15
+1 22  10
+https://www.researchgate.net/publication/2834680_In_Constructing_Diverse_Classifier_Ensembles_using_Artificial_Training_Examples
+0 0  0
+http://www.iosrjournals.org/iosr-jce/papers/vol1-issue4/D0142732.pdf?id=2155
+0 0  0
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.5.7434&rep=rep1&type=pdf
+0 0  0
 -1
 based
-https://www.kdnuggets.com/2019/09/ensemble-learning.html
-8 54 16
 https://en.wikipedia.org/wiki/Ensemble_learning
-32 110 42
-https://towardsdatascience.com/ensemble-methods-in-machine-learning-what-are-they-and-why-use-them-68ec3f9fef5f
-8 47 22
+32 110  42
 https://en.wikipedia.org/wiki/Ensemble_learning#Ensemble_theory
-32 110 42
+32 110  42
 https://en.wikipedia.org/wiki/Ensemble_learning#Ensemble_size
-32 110 42
+32 110  42
 https://en.wikipedia.org/wiki/Ensemble_learning#Common_types_of_ensembles
-32 110 42
+32 110  42
 https://en.wikipedia.org/wiki/Ensemble_learning#Ensemble_learning_applications
-32 110 42
+32 110  42
 https://blog.statsbot.co/ensemble-learning-d1dcd548e936
-8 91 26
+8 91  26
+https://www.kdnuggets.com/2019/09/ensemble-learning.html
+8 54  16
+https://towardsdatascience.com/ensemble-methods-in-machine-learning-what-are-they-and-why-use-them-68ec3f9fef5f
+8 47  22
 https://www.toptal.com/machine-learning/ensemble-methods-machine-learning
-3 34 26
+3 34  26
 -1
 artificial e.g
 https://www.researchgate.net/publication/333278443_An_ensemble_neural_network_model_for_real-time_prediction_of_urban_floods
-0 0 0
+0 0  0
 https://www.researchgate.net/publication/331952350_A_Comparative_Assessment_of_Flood_Susceptibility_Modeling_Using_Multi-Criteria_Decision-Making_Analysis_and_Machine_Learning_Methods
-0 0 0
+0 0  0
 https://agu.confex.com/agu/fm19/meetingapp.cgi/Paper/490693
-0 0 2
+0 0  2
 https://www.academia.edu/37273034/Deep_Learning_in_Mobile_and_Wireless_Networking_A_Survey
-0 0 2
+0 0  2
 https://patentswarm.com/patents/US10408913B2
-0 2 112
+0 2  112
 http://www.moshesipper.com/the-artificial-self-replication-page.html
-0 1 1
+0 1  1
 http://edepot.wur.nl/333535
-0 0 0
+0 0  0
 https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0133583&type=manuscript
-0 3 7
+0 3  7
 -1
 diverse ensembles
-http://www.iosrjournals.org/iosr-jce/papers/vol1-issue4/D0142732.pdf?id=2155
-0 0 0
 https://dl.acm.org/citation.cfm?id=1015385
-6 1 17
-https://arxiv.org/abs/1511.06314
-0 14 1
+6 1  17
 https://www.researchgate.net/publication/2834680_In_Constructing_Diverse_Classifier_Ensembles_using_Artificial_Training_Examples
-0 0 0
+0 0  0
+http://www.iosrjournals.org/iosr-jce/papers/vol1-issue4/D0142732.pdf?id=2155
+0 0  0
+https://arxiv.org/abs/1511.06314
+0 14  1
 -1
 combining ensemble members—
 https://www.researchgate.net/publication/227867104_Neural_network_ensembles_Combining_multiple_models_for_enhanced_performance_using_a_multistage_approach
-0 0 0
+0 0  0
 https://onlinelibrary.wiley.com/doi/full/10.1111/j.1468-0394.2004.00285.x
-0 0 0
+0 0  0
 https://www.academia.edu/38514438/Using_Machine_Learning_Ensemble_Methods_to_Predict_Execution_Time_of_e-Science_Workflows_in_Heterogeneous_Distributed_Systems
-0 8 11
+0 8  11
 https://www.sciencedirect.com/science/article/abs/pii/S0925231213005791
-0 0 0
+0 0  0
 https://it.b-ok2.org/book/2050339/f94944
-0 219 36
+0 219  36
 https://dl.acm.org/citation.cfm?id=2528143
-0 56 10
+0 56  10
 -1
 ___________________________________ 1- > majority
 https://www.nctatechnicalpapers.com/Paper/2017/2017-simplifying-field-operations-using-machine-learning/download
-0 0 0
+0 0  0
 https://etd.ohiolink.edu/!etd.send_file?accession=toledo1290024890&disposition=inline
-0 2 2
+0 2  2
 https://etd.ohiolink.edu/!etd.send_file?accession=kent1353971575&disposition=inline
-0 0 0
+0 0  0
 https://ir.uiowa.edu/cgi/viewcontent.cgi?article=5443&context=etd
-0 0 3
+0 0  3
 https://ir.uiowa.edu/cgi/viewcontent.cgi?article=5122&context=etd
-0 0 3
+0 0  3
 https://www.researchgate.net/publication/324591430_A_Novel_Technique_on_Class_Imbalance_Big_Data_using_Analogous_under_Sampling_Approach
-0 0 0
+0 0  0
 https://arxiv.org/pdf/1908.07857
-0 0 0
+0 0  0
 -1
 2- >
+https://en.wikipedia.org/wiki/Ensemble_learning
+0 110  42
+https://en.wikipedia.org/wiki/Ensemble_learning#Ensemble_theory
+0 110  42
+https://en.wikipedia.org/wiki/Ensemble_learning#Ensemble_size
+0 110  42
+https://en.wikipedia.org/wiki/Ensemble_learning#Common_types_of_ensembles
+0 110  42
+https://en.wikipedia.org/wiki/Ensemble_learning#Ensemble_learning_applications
+0 110  42
+https://towardsdatascience.com/simple-guide-for-ensemble-learning-methods-d87cc68705a2
+0 96  17
+https://towardsdatascience.com/ensemble-methods-in-machine-learning-what-are-they-and-why-use-them-68ec3f9fef5f
+0 47  22
+https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-for-ensemble-models/
+0 158  25
+https://www.analyticsvidhya.com/blog/2015/09/questions-ensemble-modeling/
+0 114  18
+-1
+3- > borda
+https://www.researchgate.net/publication/283210923_A_Borda_count_for_collective_sentiment_analysis
+0 0 0
+https://www.researchgate.net/publication/221653263_Empirical_comparisons_of_various_voting_methods_in_bagging
+0 0 0
+https://era.library.ualberta.ca/items/3f5390f8-4b7b-4fa1-963d-ce094a18fc7e/download/5027a7c0-1efc-4237-ba5b-d5307e523df0
+0 0 0
+https://knowledgecommons.lakeheadu.ca/bitstream/handle/2453/815/GanL2016m-1a.pdf?sequence=3&isAllowed=y
+0 0 3
+https://scholar.afit.edu/cgi/viewcontent.cgi?article=3492&context=etd
+0 0 0
+https://www.academia.edu/2885621/Cooperative_Sign_Language_Tutoring_A_Multiagent_Approach
+0 1 2
+https://www.academia.edu/9510649/Using_Ensemble-Based_Reasoning_to_Help_Experts_in_Melanoma_Diagnosis
+0 9 0
+-1
+
+https://www.kdnuggets.com/2019/09/ensemble-learning.html
+4037 54 16
+https://en.wikipedia.org/wiki/Ensemble_learning
+13620 110 42
+https://en.wikipedia.org/wiki/Ensemble_learning#Ensemble_theory
+13620 110 42
+https://en.wikipedia.org/wiki/Ensemble_learning#Ensemble_size
+13620 110 42
+https://en.wikipedia.org/wiki/Ensemble_learning#Common_types_of_ensembles
+13620 110 42
+https://en.wikipedia.org/wiki/Ensemble_learning#Ensemble_learning_applications
+13620 110 42
+https://blog.statsbot.co/ensemble-learning-d1dcd548e936
+14810 91 26
+https://towardsdatascience.com/ensemble-methods-in-machine-learning-what-are-they-and-why-use-them-68ec3f9fef5f
+10474 47 22
+https://towardsdatascience.com/simple-guide-for-ensemble-learning-methods-d87cc68705a2
+14322 96 17
+https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-for-ensemble-models/
+20249 158 25
+-1
+-2

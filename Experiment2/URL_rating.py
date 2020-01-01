@@ -4,7 +4,7 @@ import re
 import csv
 data=[]
 a=[]
-student="Aditya"
+student="Manan"
 def swap(text,j):
     temp1=text[j]
     temp2=text[j+1]
